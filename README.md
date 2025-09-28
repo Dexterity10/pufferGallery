@@ -1,7 +1,7 @@
 # The Puffer Gallery
 A Minecraft datapack for adding pufferfish paintings
 
-Coding by dexterity0
+Coding by dexterity0 and wet.noodle
 
 Art by enr1c0
 
