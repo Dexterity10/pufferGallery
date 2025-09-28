@@ -1,7 +1,13 @@
 {
-    "asset_id": "puffgallery:puffalisa",
-    "author": "enr1c0",
-    "title": "Puffalisa",
-    "height": 2,
-    "width": 1
+  "asset_id": "puffgallery:puffalisa",
+  "author": {
+    "color": "gray",
+    "translate": "painting.puffgallery.puffalisa.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.puffgallery.puffalisa.title"
+  },
+  "height": 2,
+  "width": 1
 }

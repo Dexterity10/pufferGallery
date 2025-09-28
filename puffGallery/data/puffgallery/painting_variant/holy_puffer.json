@@ -1,7 +1,13 @@
 {
-    "asset_id": "puffgallery:holy_puffer",
-    "author": "enr1c0",
-    "title": "Holy Puffer",
-    "height": 4,
-    "width": 4
+  "asset_id": "puffgallery:holy_puffer",
+  "author": {
+    "color": "gray",
+    "translate": "painting.puffgallery.holy_puffer.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.puffgallery.holy_puffer.title"
+  },
+  "height": 4,
+  "width": 4
 }
